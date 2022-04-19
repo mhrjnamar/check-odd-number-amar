@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/mhrjnamar/check-odd-number-amar/issues"
   },
-  "homepage": "https://github.com/mhrjnamar/check-odd-number-amar#readme"
+  "homepage": "https://github.com/mhrjnamar/check-odd-number-amar#readme",
+  "dependencies": {
+    "react-native": "^0.68.1"
+  }
 }
