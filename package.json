@@ -1,0 +1,24 @@
+{
+  "name": "check_odd_number_amar",
+  "version": "1.0.0",
+  "description": "Check odd number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhrjnamar/check-odd-number-amar.git"
+  },
+  "keywords": [
+    "check",
+    "odd",
+    "number"
+  ],
+  "author": "Amar Maharjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhrjnamar/check-odd-number-amar/issues"
+  },
+  "homepage": "https://github.com/mhrjnamar/check-odd-number-amar#readme"
+}
